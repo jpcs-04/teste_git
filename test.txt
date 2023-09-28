@@ -1,0 +1,7 @@
+bananas
+maça 
+leite
+
+if(crel){
+corta->saltar
+}
